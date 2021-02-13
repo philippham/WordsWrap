@@ -1,0 +1,13 @@
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.AssemblyInfoInputs.cache
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.AssemblyInfo.cs
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.csproj.CoreCompileInputs.cache
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.exe
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.deps.json
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.runtimeconfig.json
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.runtimeconfig.dev.json
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.dll
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\bin\Debug\netcoreapp3.1\OloOnlineCoding.pdb
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.dll
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.pdb
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.genruntimeconfig.cache
+C:\Users\pnpham\Source\Repos\OloOnlineCoding\obj\Debug\netcoreapp3.1\OloOnlineCoding.csprojAssemblyReference.cache
